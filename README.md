@@ -1,5 +1,8 @@
 # DIY-Laser-Engraver
 
+
+<img src="docs/Laser%20Engraver.jpg" alt="Picture" width="300"/>
+
 ## Required Components📦
 
 ### Electronics🧩
