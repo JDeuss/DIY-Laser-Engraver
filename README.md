@@ -41,6 +41,7 @@ Electrical hazards can also occur during repairs or modifications, so only work 
 <img src="docs/Common%20Wavelengths.png" alt="Picture" width="200"/>
 
 ## PC Software
+<img src="docs/Software.png" alt="Picture" width="900"/>
 
 
 
