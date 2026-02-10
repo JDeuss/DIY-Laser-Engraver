@@ -43,6 +43,8 @@ Electrical hazards can also occur during repairs or modifications, so only work 
 ## PC Software
 <img src="docs/Software.png" alt="Picture" width="900"/>
 
+There are many different software options for GRBL controllers. I use Laser Grbl because it's free and easy to use.
+
 
 
 
