@@ -12,6 +12,7 @@
 | Nema17  | Stepper Motors   | 3 | [Link](https://www.amazon.de/STEPPERONLINE-Schrittmotor-42x42x39mm-3D-Drucker-Fr%C3%A4smaschine/dp/B0B38GX54H/ref=asc_df_B0B38H2ZMR?mcid=ca785b7d84533672a049e9feddefc7a3&th=1&tag=googshopde-21&linkCode=df0&hvadid=696220738980&hvpos=&hvnetw=g&hvrand=17658898795103271932&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9041699&hvtargid=pla-1753942814376&hvocijid=17658898795103271932-B0B38H2ZMR-&hvexpln=0)|
 | A4988  | Stepper Motors   | 3 | [Link](https://www.amazon.de/Stepstick-Stepper-K%C3%BChlk%C3%B6rper-3D-Drucker-geeignet/dp/B07XRF8YPX/ref=sr_1_1_sspa?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2CDC79BM0CSHO&dib=eyJ2IjoiMSJ9.9anjKJqXO7oOgwILUV_2WDAqq2kADGtznOb-CuxkfYxaOXF9zZbAoqcCn08pyQ3gYJkF0fpWAb8M6t_OQf0F-sxPiuFifCQCZgocoAMdwYzUqGGsXnR4bAXbecz1X2UmMbtd4iWzYwHC-wRSvdpJMKyCIpmxZuYjk5ROXNkVyHLjRxBd0h3llVq3LS60IYw7_SUYWEG1_q7pir493wBu5rWruzgoFQIA06xRbBWmKbkx0Ed9T600jbI6SuZFmU4HoMZu6oVOTVudEdvlCAVoCEGfufW7wopvVLpJ-G8KZBs.rGN3MCLd4BT5hW5-Kzo433Go4iQYFY6KJPdjRiq6Nxs&dib_tag=se&keywords=A4988&qid=1770671646&sprefix=a4988%2Caps%2C113&sr=8-1-spons&aref=meTjKxakfR&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 | Laser Module 20W  | Engraving laser | 1 | [Link](https://www.amazon.de/LASER-TREE-Ausgangsleistung-Einstellbarer-Lasermaschine/dp/B09HBSTQPH/ref=sr_1_3?dib=eyJ2IjoiMSJ9.7JaHdmlQuv0rehU1G1PB-MAd0Hc9T9fw_6Pse_4OMlaBNAJMvsZF8APAQ6b2CV1rCi7-RQ4HWHOSe_jn2AHoWSoDXDTFlxwuTI_WQTv_x3Vje7eAO7iEIacHSwdNycBVsry9tj1BxQBU_48r83DkHkc0Lesy1om0ECXbyBSrcZYF3oCVqS95iT0iiMXFeOxabFp8bbZK_hxJaza37nKNDqoaUuLkz3-PhtbwD1qxFk8.INq78Tx6-x2G-ezyU7zyaoLK4ig1p06jkq3D9j-0d3s&dib_tag=se&keywords=laser+modul&qid=1770671776&sr=8-3)
+| Power supply  | 24V, 10A | 1 | [Link](https://www.amazon.de/Netzteiladapter-100-240V-Ausgangsbuchse-Niederspannungstransformatoren-universeller-Schwarz/dp/B0D59YBHJR/ref=sr_1_6?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2QMYT72ZKIMW4&dib=eyJ2IjoiMSJ9.THnV4nFHMefGVjs60Zp17iBLjJgWpHrlk-chbKINdfHPT7Wj7k9WuinIbW8FfSlgRUeWquwwgeR9LUK0WcvTjrpYkRLAmZlTa6FffWbc0GL0W15DUO_WlcOy1fVVbwmR_JO23w--srJ2wojdNAZZA21UXTDLKcxOaHYh0z_nYoYuC-fbOnUnga0_No6MBE6U0hbYFmzEGPIy5s8-ZVUZZEf1TxNK5XiB_XOAhL61ET46hXvp0fHu6Kb823N_KvOZ1NeU3hrd9RjkERkC7uvdYyBiQ8qosL63sMhN9BCPQ3c.PRixO1Ia1BuD_4xrYGa2h56n4J5V3eqK5raJFkttPX4&dib_tag=se&keywords=netzteil%2B24V%2B10a&qid=1770720765&sprefix=netzteil%2B24v%2B10a%2Caps%2C100&sr=8-6&th=1)
 
 Note:
 Endstops can be added at any time, but they are not strictly required since the engraver can also operate entirely with software endstops. Additionally, the corresponding display is required, but it is not listed here because it is included with the GRBL controller when purchased.
@@ -24,7 +25,20 @@ Endstops can be added at any time, but they are not strictly required since the 
 | X-Axes | 3D Print | 2 |
 | Item Stand | 3D Print | 4 |
 | Item Profile | Alu Frame | 1,5m |
+| Timing belt | Assembly hardware | 1 |
+| Belt pulley| 20 teeth | 3 |
 
 Note:
 You can build the frame in any size you want. Just attach the 3D‑printed parts to it. There is no fixed maximum size.
+
+
+
+
+## Safety When Using a DIY Laser Engraver 🔒
+Operating a self‑built laser engraver requires strict safety precautions. Laser radiation can cause permanent damage to eyes and skin, so always wear safety goggles that match the wavelength of your laser.
+Electrical hazards can also occur during repairs or modifications, so only work on the device when it is completely powered off.
+
+
+
+
 
