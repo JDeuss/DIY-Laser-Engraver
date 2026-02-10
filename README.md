@@ -38,6 +38,11 @@ You can build the frame in any size you want. Just attach the 3D‑printed parts
 Operating a self‑built laser engraver requires strict safety precautions. Laser radiation can cause permanent damage to eyes and skin, so always wear safety goggles that match the wavelength of your laser.
 Electrical hazards can also occur during repairs or modifications, so only work on the device when it is completely powered off.
 
+<img src="docs/Common%20Wavelengths.png" alt="Picture" width="200"/>
+
+## PC Software
+
+
 
 
 
